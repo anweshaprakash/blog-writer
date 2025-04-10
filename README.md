@@ -19,8 +19,8 @@ A Streamlit-based application that leverages **LangChain** and **CrewAI** to gen
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-blog-post-generator.git
-cd ai-blog-post-generator
+git clone https://github.com/anweshaprakash/blog-writer.git
+cd blog-writer
 pip install -r requirements.txt
 ```
 
@@ -35,7 +35,7 @@ OPENAI_API_KEY=your_openai_api_key
 ## 🧪 Run the App
 
 ```bash
-streamlit run app.py
+streamlit run blog_writer.py
 ```
 
 ## 🎯 Usage
