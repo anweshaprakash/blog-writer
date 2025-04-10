@@ -15,7 +15,6 @@ A Streamlit-based application that leverages **LangChain** and **CrewAI** to gen
 
 👉 [Watch the demo on Loom](https://www.loom.com/share/d40d56d22004478cbfa6ae41084adaec)  
 
-> ⚠️ Note: Loom thumbnails aren't actual images, so GitHub might reject them in markdown preview if the link doesn't resolve as an image. You can just link the video directly as above. If you really want a thumbnail preview, download a frame from the Loom video and use that image hosted in your repo or an image CDN.
 
 ## ⚙️ Installation
 
